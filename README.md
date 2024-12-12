@@ -1,8 +1,8 @@
 # Data-Analytics
 HR Dashboard in Excel
 
-1. General Overview (Top Section)
-   - Total Employees (Total Er): Displays a summary of active employees, categorized by gender, employment type (FT/PT), and compensation type (hourly/salary).
+1. **General Overview (Top Section)**
+   - **Total Employees (Total Er):** Displays a summary of active employees, categorized by gender, employment type (FT/PT), and compensation type (hourly/salary).
    - **Turnover Rate:** Shows employee turnover percentages for the years 2015-2018.
    - **Age Distribution:** Illustrates the distribution of employees by age group (<30, 30-49, 50+) and gender.
 
